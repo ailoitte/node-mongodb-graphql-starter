@@ -1,5 +1,5 @@
 
-![NodeJs + MongoDB + GraphQL Starter](https://github.com/ailoitte/node-mongodb-graphql-starter/public/node+mongoDB+GraphQL.png)
+![NodeJs + MongoDB + GraphQL Starter](https://raw.githubusercontent.com/ailoitte/node-mongodb-graphql-starter/master/public/node%2BmongoDB%2BGraphQL.png)
 
 
 NodeJs + MongoDB + GraphQL Starter
@@ -107,7 +107,7 @@ Packages
 Query & Mutation
 ----------------
 
-![](https://github.com/ailoitte/node-mongodb-graphql-starter/public/graphiql.png)
+![](https://raw.githubusercontent.com/ailoitte/node-mongodb-graphql-starter/master/public/graphiql.png)
 
 
 ### ADD USER
